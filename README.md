@@ -1,6 +1,6 @@
 ﻿학사관리 데이터베이스
 
-**요구사항 명세서 ![](Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.003.jpeg)**
+**요구사항 명세서 ![](img\Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.003.jpeg)**
 
 주요업무로는 학사, 수강관리가 있으며 각 업무 별로 요구사항 명세서를 작성하였다. 
 
@@ -10,7 +10,7 @@
 
 **Entity**
 
-![](Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.004.jpeg)
+![](img\Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.004.jpeg)
 
 **테이블명세서**
 
@@ -39,39 +39,39 @@ schema: UniversityDB
 
 entitiy: student, professor, department, subject relation: attend, grade, admin
 
-![](Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.005.png)
+![](img\Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.005.png)
 
-![](Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.006.png)
+![](img\Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.006.png)
 
-![](Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.007.jpeg)
+![](img\Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.007.jpeg)
 
-![](Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.008.png)
+![](img\Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.008.png)
 
-![](Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.009.jpeg)
+![](img\Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.009.jpeg)
 
-![](Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.010.png)
+![](img\Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.010.png)
 
-![](Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.011.jpeg)
+![](img\Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.011.jpeg)
 
-![](Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.012.png)
+![](img\Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.012.png)
 
 ⓒSaebyeol Yu. Saebyeol’s PowerPoint
 **Database Schema**
 
-![](Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.013.jpeg)
+![](img\Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.013.jpeg)
 
-![](Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.014.png) ⓒSaebyeol Yu. Saebyeol’s PowerPoint
+![](img\Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.014.png) ⓒSaebyeol Yu. Saebyeol’s PowerPoint
 
 
 **Database Schema**
 
-![](Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.015.jpeg)
+![](img\Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.015.jpeg)
 
-![](Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.016.png)
+![](img\Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.016.png)
 
-![](Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.017.jpeg)
+![](img\Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.017.jpeg)
 
-![](Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.018.png)
+![](img\Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.018.png)
 
 
-[ref1]: Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.002.png
+[ref1]: img\Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.002.png
