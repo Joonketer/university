@@ -55,12 +55,11 @@ entitiy: student, professor, department, subject relation: attend, grade, admin
 
 ![](img\Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.012.png)
 
-ⓒSaebyeol Yu. Saebyeol’s PowerPoint
 **Database Schema**
 
 ![](img\Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.013.jpeg)
 
-![](img\Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.014.png) ⓒSaebyeol Yu. Saebyeol’s PowerPoint
+![](img\Aspose.Words.7b83ad5b-126c-4d1c-9f90-a2bbb6fb01cd.014.png) 
 
 
 **Database Schema**
