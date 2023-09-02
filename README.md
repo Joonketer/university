@@ -26,7 +26,7 @@ grade : 성적, 점수 및 학점 등(relation)
 
 attend : 수강, 담당교수 및 교과목 등(relation)
 
-ⓒSaebyeol Yu. Saebyeol’s PowerPoint
+
 **Database Schema**
 
 OS: Windos 10!
